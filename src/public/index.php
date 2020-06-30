@@ -10,9 +10,7 @@ $app = new \Slim\App;
 
 
 /* Routes */
-
 require '../routes/api.php';
-// require '../routes/test.php';
 
 
 

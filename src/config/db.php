@@ -4,7 +4,7 @@
         private $dbhost = '127.0.0.1';
         private $dbuser = 'test';
         private $dbpass = 'test';
-        private $dbname = 'COVID';
+        private $dbname = 'dbname';
 
         //connect
         public function connect(){
